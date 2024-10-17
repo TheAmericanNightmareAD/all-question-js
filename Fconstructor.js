@@ -79,3 +79,9 @@ function areaofRectange(length,breadth,height){
 let areais=new areaofRectange(5,6,8);
 console.log(`area of`,areais.areaof());
 /*>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>*/
+
+let arr = [10,20,30]
+
+arr.map((maal)=>{
+  console.log(maal)
+})
